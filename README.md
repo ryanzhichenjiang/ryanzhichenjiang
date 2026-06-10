@@ -2,7 +2,7 @@
 
 - This is my **school** account.
 
-- I like `C++`!
+- I like running! My 5k PB is 17:18. I enjoy wearing the New Balance SC Pacer v2.
 
 - You can contact me by email `ryanjzc-sch@outlook.com` or `jiangryancool@gmail.com`.
 
